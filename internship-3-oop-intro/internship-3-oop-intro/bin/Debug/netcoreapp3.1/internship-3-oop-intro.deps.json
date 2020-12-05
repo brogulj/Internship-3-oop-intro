@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "internship-3-oop-intro/1.0.0": {
+        "runtime": {
+          "internship-3-oop-intro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "internship-3-oop-intro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
